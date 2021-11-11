@@ -6,6 +6,5 @@ From https://github.com/HakkaTjakka/The-Netherlands-BTE121-projection-voxelized-
 http://83.83.222.154/map/11/5/-9/r.50.-83.jpg
 
 [![Demo CountPages alpha](http://83.83.222.154/map/11/5/-9/r.50.-83.jpg)](http://83.83.222.154/nl/)
-[![Demo CountPages alpha](http://83.83.222.154/nl/)](http://83.83.222.154/nl/)
 (Click for map)
 
